@@ -1,5 +1,3 @@
-#!/usr/local/bin/python
-
 import os
 import click
 import json
@@ -40,6 +38,3 @@ def cli(path,out):
 			click.echo('Invalid output path.')
 	else:
 		click.echo('Invalid input path.')
-
-if __name__ == '__main__':
-	cli()
