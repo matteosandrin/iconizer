@@ -1,6 +1,6 @@
 # Iconizer - Effortlessly resize iOS icons
 
-This simple app removes all the hassle of creating icons by hand for iOS apps.  
+This simple app removes the hassle out of resizing iOS icons for different devices.  
   
 - Requires ImageMagick
 - Works best with 1536 by 1536 images.
